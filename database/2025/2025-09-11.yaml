@@ -1,0 +1,56 @@
+'54538611688':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-09-11T02:15:32Z'
+  id: '54538611688'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/220441404?
+    gravatar_id: ''
+    id: 220441404
+    login: thinking-machines-lab
+    url: https://api.github.com/orgs/thinking-machines-lab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 1053791889
+    name: thinking-machines-lab/batch_invariant_ops
+    url: https://api.github.com/repos/thinking-machines-lab/batch_invariant_ops
+  type: WatchEvent
+'54541049783':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-09-11T03:59:03Z'
+  id: '54541049783'
+  payload:
+    before: cea7e10cca0193d30a84946e83f920b8fd8a22f3
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'build: multi agent demo'
+      sha: b682cd312b0fbddd9dbc6eccd63895f50d8949a9
+      url: https://api.github.com/repos/beiyuouo/EyeAgent-mcp/commits/b682cd312b0fbddd9dbc6eccd63895f50d8949a9
+    distinct_size: 1
+    head: b682cd312b0fbddd9dbc6eccd63895f50d8949a9
+    push_id: 26729592103
+    ref: refs/heads/main
+    repository_id: 1047083129
+    size: 1
+  public: true
+  repo:
+    id: 1047083129
+    name: beiyuouo/EyeAgent-mcp
+    url: https://api.github.com/repos/beiyuouo/EyeAgent-mcp
+  type: PushEvent
