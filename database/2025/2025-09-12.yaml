@@ -16,3 +16,223 @@
     name: wisdom-pan/Agent_Hospital
     url: https://api.github.com/repos/wisdom-pan/Agent_Hospital
   type: WatchEvent
+'54609183026':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T09:55:27Z'
+  id: '54609183026'
+  payload:
+    before: b682cd312b0fbddd9dbc6eccd63895f50d8949a9
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'build: initial version'
+      sha: 639552bc93a5912e82331a2b1ec5eba5e7ebdf86
+      url: https://api.github.com/repos/yaubj/EyeAgent-mcp/commits/639552bc93a5912e82331a2b1ec5eba5e7ebdf86
+    distinct_size: 1
+    head: 639552bc93a5912e82331a2b1ec5eba5e7ebdf86
+    push_id: 26762160335
+    ref: refs/heads/main
+    repository_id: 1047083129
+    size: 1
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: PushEvent
+'54609466231':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:01:28Z'
+  id: '54609466231'
+  payload:
+    before: 639552bc93a5912e82331a2b1ec5eba5e7ebdf86
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'chore: update secret key'
+      sha: f33f06cd3fdb723c309fa152af1c9f8f8aa48a17
+      url: https://api.github.com/repos/yaubj/EyeAgent-mcp/commits/f33f06cd3fdb723c309fa152af1c9f8f8aa48a17
+    distinct_size: 1
+    head: f33f06cd3fdb723c309fa152af1c9f8f8aa48a17
+    push_id: 26762293353
+    ref: refs/heads/main
+    repository_id: 1047083129
+    size: 1
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: PushEvent
+'54609641233':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:05:14Z'
+  id: '54609641233'
+  payload:
+    before: f33f06cd3fdb723c309fa152af1c9f8f8aa48a17
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'chore: update publish action'
+      sha: 02ca904eac326106dcbc0edb709bd94bec89628e
+      url: https://api.github.com/repos/yaubj/EyeAgent-mcp/commits/02ca904eac326106dcbc0edb709bd94bec89628e
+    distinct_size: 1
+    head: 02ca904eac326106dcbc0edb709bd94bec89628e
+    push_id: 26762374588
+    ref: refs/heads/main
+    repository_id: 1047083129
+    size: 1
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: PushEvent
+'54610926666':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:34:18Z'
+  id: '54610926666'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: eyeagent-v0.1.1
+    ref_type: tag
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: CreateEvent
+'54610926677':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:34:18Z'
+  id: '54610926677'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: eyetools-v0.1.1
+    ref_type: tag
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: CreateEvent
+'54610978655':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:35:34Z'
+  id: '54610978655'
+  payload:
+    pusher_type: user
+    ref: eyetools-v0.1.1
+    ref_type: tag
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: DeleteEvent
+'54610983399':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:35:42Z'
+  id: '54610983399'
+  payload:
+    pusher_type: user
+    ref: eyeagent-v0.1.1
+    ref_type: tag
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: DeleteEvent
+'54611059700':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:37:32Z'
+  id: '54611059700'
+  payload:
+    pusher_type: user
+    ref: eyetools-v0.1.1
+    ref_type: tag
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: DeleteEvent
+'54611097431':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yaubj
+    gravatar_id: ''
+    id: 44976445
+    login: yaubj
+    url: https://api.github.com/users/yaubj
+  created_at: '2025-09-12T10:38:28Z'
+  id: '54611097431'
+  payload:
+    pusher_type: user
+    ref: eyeagent-v0.1.1
+    ref_type: tag
+  public: true
+  repo:
+    id: 1047083129
+    name: yaubj/EyeAgent-mcp
+    url: https://api.github.com/repos/yaubj/EyeAgent-mcp
+  type: DeleteEvent
