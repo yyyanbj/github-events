@@ -1,0 +1,64 @@
+'54688225837':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-09-15T05:54:34Z'
+  id: '54688225837'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 1031215137
+    name: xpzouying/xiaohongshu-mcp
+    url: https://api.github.com/repos/xpzouying/xiaohongshu-mcp
+  type: WatchEvent
+'54689120446':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-09-15T06:23:14Z'
+  id: '54689120446'
+  payload:
+    before: 45f64d6ff78e4dcc35ba882153520134359aa4a0
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'fix: segmentation'
+      sha: 5e70e82144ba0e731390c9fa9391fac54c3b08cb
+      url: https://api.github.com/repos/yyyanbj/EyeAgent-mcp/commits/5e70e82144ba0e731390c9fa9391fac54c3b08cb
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'fix: mcp server'
+      sha: 21effe0bb05ed7fdfdff0e79c1259c5e4de71ea1
+      url: https://api.github.com/repos/yyyanbj/EyeAgent-mcp/commits/21effe0bb05ed7fdfdff0e79c1259c5e4de71ea1
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'fix: classification'
+      sha: e5e3fef29922355cbecc3fd4e79d3dc7ee4a2efe
+      url: https://api.github.com/repos/yyyanbj/EyeAgent-mcp/commits/e5e3fef29922355cbecc3fd4e79d3dc7ee4a2efe
+    distinct_size: 3
+    head: e5e3fef29922355cbecc3fd4e79d3dc7ee4a2efe
+    push_id: 26806382332
+    ref: refs/heads/main
+    repository_id: 1047083129
+    size: 3
+  public: true
+  repo:
+    id: 1047083129
+    name: yyyanbj/EyeAgent-mcp
+    url: https://api.github.com/repos/yyyanbj/EyeAgent-mcp
+  type: PushEvent
