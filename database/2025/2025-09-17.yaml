@@ -1,0 +1,32 @@
+'54802159111':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-09-17T05:04:37Z'
+  id: '54802159111'
+  payload:
+    before: f227f4141ccd9074813e8e39e9da0e2b1834ed3d
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'fix: segmentation'
+      sha: dac2b88d7bc74996bd81ba0992cf6a5f64b969e7
+      url: https://api.github.com/repos/yyyanbj/EyeAgent-mcp/commits/dac2b88d7bc74996bd81ba0992cf6a5f64b969e7
+    distinct_size: 1
+    head: dac2b88d7bc74996bd81ba0992cf6a5f64b969e7
+    push_id: 26860556441
+    ref: refs/heads/main
+    repository_id: 1047083129
+    size: 1
+  public: true
+  repo:
+    id: 1047083129
+    name: yyyanbj/EyeAgent-mcp
+    url: https://api.github.com/repos/yyyanbj/EyeAgent-mcp
+  type: PushEvent
