@@ -1,0 +1,64 @@
+'54934891333':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-09-19T13:01:15Z'
+  id: '54934891333'
+  payload:
+    before: e9c6651eb01a105a019d25064185d528e80a126c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update README.md
+      sha: 256f002b8fa031376edf6c6d292243a1cf875c29
+      url: https://api.github.com/repos/yyyanbj/yyyanbj/commits/256f002b8fa031376edf6c6d292243a1cf875c29
+    distinct_size: 1
+    head: 256f002b8fa031376edf6c6d292243a1cf875c29
+    push_id: 26924505817
+    ref: refs/heads/main
+    repository_id: 318041098
+    size: 1
+  public: true
+  repo:
+    id: 318041098
+    name: yyyanbj/yyyanbj
+    url: https://api.github.com/repos/yyyanbj/yyyanbj
+  type: PushEvent
+'54934906417':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-09-19T13:01:33Z'
+  id: '54934906417'
+  payload:
+    before: 256f002b8fa031376edf6c6d292243a1cf875c29
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update GitHub stats image in README
+      sha: 670a4bec5f963b838aa761bfdd35cc6d4d630f14
+      url: https://api.github.com/repos/yyyanbj/yyyanbj/commits/670a4bec5f963b838aa761bfdd35cc6d4d630f14
+    distinct_size: 1
+    head: 670a4bec5f963b838aa761bfdd35cc6d4d630f14
+    push_id: 26924513627
+    ref: refs/heads/main
+    repository_id: 318041098
+    size: 1
+  public: true
+  repo:
+    id: 318041098
+    name: yyyanbj/yyyanbj
+    url: https://api.github.com/repos/yyyanbj/yyyanbj
+  type: PushEvent
