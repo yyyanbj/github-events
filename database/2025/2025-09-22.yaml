@@ -51,3 +51,27 @@
     name: yyyanbj/EyeAgent-mcp
     url: https://api.github.com/repos/yyyanbj/EyeAgent-mcp
   type: PushEvent
+'54999096081':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-09-22T02:03:23Z'
+  id: '54999096081'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/64211549?
+    gravatar_id: ''
+    id: 64211549
+    login: Alibaba-NLP
+    url: https://api.github.com/orgs/Alibaba-NLP
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 914316754
+    name: Alibaba-NLP/DeepResearch
+    url: https://api.github.com/repos/Alibaba-NLP/DeepResearch
+  type: WatchEvent
