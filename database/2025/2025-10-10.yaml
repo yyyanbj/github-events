@@ -1,0 +1,102 @@
+'3965680111':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-10-10T11:57:52Z'
+  id: '3965680111'
+  payload:
+    action: closed
+    number: 1
+    pull_request:
+      base:
+        ref: main
+        repo:
+          id: 1072058851
+          name: EyeAgent-lftb
+          url: https://api.github.com/repos/yyyanbj/EyeAgent-lftb
+        sha: 5fe98ecff0954434a43433ad47ffb91413004e0e
+      head:
+        ref: copilot/extract-images-with-captions
+        repo:
+          id: 1072058851
+          name: EyeAgent-lftb
+          url: https://api.github.com/repos/yyyanbj/EyeAgent-lftb
+        sha: d9fecdfa80f464e72a1b6b93015613e9363307cd
+      id: 2903699378
+      number: 1
+      url: https://api.github.com/repos/yyyanbj/EyeAgent-lftb/pulls/1
+  public: false
+  repo:
+    id: 1072058851
+    name: yyyanbj/EyeAgent-lftb
+    url: https://api.github.com/repos/yyyanbj/EyeAgent-lftb
+  type: PullRequestEvent
+'5116592386':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-10-10T11:57:47Z'
+  id: '5116592386'
+  payload:
+    description: null
+    full_ref: refs/heads/copilot/vscode1760097463985
+    master_branch: main
+    pusher_type: user
+    ref: copilot/vscode1760097463985
+    ref_type: branch
+  public: false
+  repo:
+    id: 1072058851
+    name: yyyanbj/EyeAgent-lftb
+    url: https://api.github.com/repos/yyyanbj/EyeAgent-lftb
+  type: CreateEvent
+'5116631001':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-10-10T11:59:25Z'
+  id: '5116631001'
+  payload:
+    full_ref: refs/heads/copilot/vscode1760097463985
+    pusher_type: user
+    ref: copilot/vscode1760097463985
+    ref_type: branch
+  public: false
+  repo:
+    id: 1072058851
+    name: yyyanbj/EyeAgent-lftb
+    url: https://api.github.com/repos/yyyanbj/EyeAgent-lftb
+  type: DeleteEvent
+'5116631536':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-10-10T11:59:27Z'
+  id: '5116631536'
+  payload:
+    full_ref: refs/heads/copilot/extract-images-with-captions
+    pusher_type: user
+    ref: copilot/extract-images-with-captions
+    ref_type: branch
+  public: false
+  repo:
+    id: 1072058851
+    name: yyyanbj/EyeAgent-lftb
+    url: https://api.github.com/repos/yyyanbj/EyeAgent-lftb
+  type: DeleteEvent
