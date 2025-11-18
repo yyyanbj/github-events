@@ -18,8 +18,8 @@
   public: false
   repo:
     id: 1089960654
-    name: yyyanbj/medical_record_structured_extration
-    url: https://api.github.com/repos/yyyanbj/medical_record_structured_extration
+    name: yyyanbj/emr_ext
+    url: https://api.github.com/repos/yyyanbj/emr_ext
   type: CreateEvent
 '5715154524':
   actor:
@@ -40,6 +40,6 @@
   public: false
   repo:
     id: 1089960654
-    name: yyyanbj/medical_record_structured_extration
-    url: https://api.github.com/repos/yyyanbj/medical_record_structured_extration
+    name: yyyanbj/emr_ext
+    url: https://api.github.com/repos/yyyanbj/emr_ext
   type: PushEvent
