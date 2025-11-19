@@ -1,0 +1,22 @@
+'6056158922':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2025-11-18T18:55:57Z'
+  id: '6056158922'
+  payload:
+    before: ce242136aa3065d4fa0234611b3dba4bf5e562b4
+    head: 0858f2dee8b3d2f3028d6cf274d6583c688e3902
+    push_id: 28350164934
+    ref: refs/heads/dev
+    repository_id: 939172459
+  public: false
+  repo:
+    id: 939172459
+    name: yyyanbj/EyeAgent-dev
+    url: https://api.github.com/repos/yyyanbj/EyeAgent-dev
+  type: PushEvent
