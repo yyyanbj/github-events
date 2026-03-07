@@ -62,8 +62,8 @@
   public: false
   repo:
     id: 1173412646
-    name: yyyanbj/workspace
-    url: https://api.github.com/repos/yyyanbj/workspace
+    name: yyyanbj/web-manager
+    url: https://api.github.com/repos/yyyanbj/web-manager
   type: CreateEvent
 '9064330726':
   actor:
@@ -84,6 +84,6 @@
   public: false
   repo:
     id: 1173412646
-    name: yyyanbj/workspace
-    url: https://api.github.com/repos/yyyanbj/workspace
+    name: yyyanbj/web-manager
+    url: https://api.github.com/repos/yyyanbj/web-manager
   type: PushEvent
