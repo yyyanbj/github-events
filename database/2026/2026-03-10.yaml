@@ -1,0 +1,133 @@
+'7253530425':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-03-10T13:39:34Z'
+  id: '7253530425'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/255066954?
+    gravatar_id: ''
+    id: 255066954
+    login: qwibitai
+    url: https://api.github.com/orgs/qwibitai
+  payload:
+    action: forked
+    forkee:
+      allow_forking: true
+      archive_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/{archive_format}{/ref}
+      archived: false
+      assignees_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/assignees{/user}
+      blobs_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/git/blobs{/sha}
+      branches_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/branches{/branch}
+      clone_url: https://github.com/yyyanbj/ophclaw-nano.git
+      collaborators_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/collaborators{/collaborator}
+      comments_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/comments{/number}
+      commits_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/commits{/sha}
+      compare_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/compare/{base}...{head}
+      contents_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/contents/{+path}
+      contributors_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/contributors
+      created_at: '2026-03-10T13:39:34Z'
+      default_branch: main
+      deployments_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/deployments
+      description: A lightweight alternative to OpenClaw that runs in containers for
+        security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other
+        messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's
+        Agents SDK
+      disabled: false
+      downloads_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/downloads
+      events_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/events
+      fork: true
+      forks: 0
+      forks_count: 0
+      forks_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/forks
+      full_name: yyyanbj/ophclaw-nano
+      git_commits_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/git/commits{/sha}
+      git_refs_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/git/refs{/sha}
+      git_tags_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/git/tags{/sha}
+      git_url: git://github.com/yyyanbj/ophclaw-nano.git
+      has_discussions: false
+      has_downloads: true
+      has_issues: false
+      has_pages: false
+      has_projects: true
+      has_pull_requests: true
+      has_wiki: false
+      homepage: https://nanoclaw.dev
+      hooks_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/hooks
+      html_url: https://github.com/yyyanbj/ophclaw-nano
+      id: 1177898111
+      is_template: false
+      issue_comment_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/issues/comments{/number}
+      issue_events_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/issues/events{/number}
+      issues_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/issues{/number}
+      keys_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/keys{/key_id}
+      labels_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/labels{/name}
+      language: null
+      languages_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/languages
+      license:
+        key: mit
+        name: MIT License
+        node_id: MDc6TGljZW5zZTEz
+        spdx_id: MIT
+        url: https://api.github.com/licenses/mit
+      merges_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/merges
+      milestones_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/milestones{/number}
+      mirror_url: null
+      name: ophclaw-nano
+      node_id: R_kgDORjVMfw
+      notifications_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/notifications{?since,all,participating}
+      open_issues: 0
+      open_issues_count: 0
+      owner:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/yyyanbj/events{/privacy}
+        followers_url: https://api.github.com/users/yyyanbj/followers
+        following_url: https://api.github.com/users/yyyanbj/following{/other_user}
+        gists_url: https://api.github.com/users/yyyanbj/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/yyyanbj
+        id: 44976445
+        login: yyyanbj
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/yyyanbj/orgs
+        received_events_url: https://api.github.com/users/yyyanbj/received_events
+        repos_url: https://api.github.com/users/yyyanbj/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/yyyanbj/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/yyyanbj/subscriptions
+        type: User
+        url: https://api.github.com/users/yyyanbj
+        user_view_type: public
+      private: false
+      pull_request_creation_policy: all
+      pulls_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/pulls{/number}
+      pushed_at: '2026-03-10T00:25:58Z'
+      releases_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/releases{/id}
+      size: 10648
+      ssh_url: git@github.com:yyyanbj/ophclaw-nano.git
+      stargazers_count: 0
+      stargazers_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/stargazers
+      statuses_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/statuses/{sha}
+      subscribers_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/subscribers
+      subscription_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/subscription
+      svn_url: https://github.com/yyyanbj/ophclaw-nano
+      tags_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/tags
+      teams_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/teams
+      topics: []
+      trees_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/git/trees{/sha}
+      updated_at: '2026-03-10T13:39:35Z'
+      url: https://api.github.com/repos/yyyanbj/ophclaw-nano
+      visibility: public
+      watchers: 0
+      watchers_count: 0
+      web_commit_signoff_required: false
+  public: true
+  repo:
+    id: 1146738089
+    name: qwibitai/nanoclaw
+    url: https://api.github.com/repos/qwibitai/nanoclaw
+  type: ForkEvent
