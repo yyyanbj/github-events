@@ -66,7 +66,7 @@
       issues_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/issues{/number}
       keys_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/keys{/key_id}
       labels_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/labels{/name}
-      language: null
+      language: TypeScript
       languages_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/languages
       license:
         key: mit
@@ -105,9 +105,9 @@
       private: false
       pull_request_creation_policy: all
       pulls_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/pulls{/number}
-      pushed_at: '2026-03-10T00:25:58Z'
+      pushed_at: '2026-03-10T17:30:19Z'
       releases_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/releases{/id}
-      size: 10648
+      size: 10592
       ssh_url: git@github.com:yyyanbj/ophclaw-nano.git
       stargazers_count: 0
       stargazers_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/stargazers
@@ -119,7 +119,7 @@
       teams_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/teams
       topics: []
       trees_url: https://api.github.com/repos/yyyanbj/ophclaw-nano/git/trees{/sha}
-      updated_at: '2026-03-10T13:39:35Z'
+      updated_at: '2026-03-10T17:30:23Z'
       url: https://api.github.com/repos/yyyanbj/ophclaw-nano
       visibility: public
       watchers: 0
