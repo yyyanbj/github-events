@@ -1,0 +1,48 @@
+'7547102691':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-03-19T05:54:31Z'
+  id: '7547102691'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/129152888?
+    gravatar_id: ''
+    id: 129152888
+    login: MoonshotAI
+    url: https://api.github.com/orgs/MoonshotAI
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 1146028508
+    name: MoonshotAI/Kimi-K2.5
+    url: https://api.github.com/repos/MoonshotAI/Kimi-K2.5
+  type: WatchEvent
+'7547104809':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-03-19T05:54:39Z'
+  id: '7547104809'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/1728152?
+    gravatar_id: ''
+    id: 1728152
+    login: NVIDIA
+    url: https://api.github.com/orgs/NVIDIA
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 1182547092
+    name: NVIDIA/NemoClaw
+    url: https://api.github.com/repos/NVIDIA/NemoClaw
+  type: WatchEvent
