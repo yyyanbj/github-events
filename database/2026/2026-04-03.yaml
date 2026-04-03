@@ -1,0 +1,24 @@
+'8066144593':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-04-03T12:02:52Z'
+  id: '8066144593'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/268502891?
+    gravatar_id: ''
+    id: 268502891
+    login: Gitlawb
+    url: https://api.github.com/orgs/Gitlawb
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 1197990888
+    name: Gitlawb/openclaude
+    url: https://api.github.com/repos/Gitlawb/openclaude
+  type: WatchEvent
