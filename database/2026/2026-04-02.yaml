@@ -1,0 +1,24 @@
+'8037391649':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-04-02T14:12:46Z'
+  id: '8037391649'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/76263028?
+    gravatar_id: ''
+    id: 76263028
+    login: anthropics
+    url: https://api.github.com/orgs/anthropics
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 937253475
+    name: anthropics/claude-code
+    url: https://api.github.com/repos/anthropics/claude-code
+  type: WatchEvent
