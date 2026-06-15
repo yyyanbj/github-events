@@ -17,8 +17,8 @@
   public: false
   repo:
     id: 1090635309
-    name: yyyanbj/eyeagents
-    url: https://api.github.com/repos/yyyanbj/eyeagents
+    name: yyyanbj/EyeFlow
+    url: https://api.github.com/repos/yyyanbj/EyeFlow
   type: PushEvent
 '12943160233':
   actor:
