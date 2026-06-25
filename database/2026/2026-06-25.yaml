@@ -1,0 +1,42 @@
+'10955457625':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-06-25T06:49:42Z'
+  id: '10955457625'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/92318064?
+    gravatar_id: ''
+    id: 92318064
+    login: rdi-berkeley
+    url: https://api.github.com/orgs/rdi-berkeley
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 1228589758
+    name: rdi-berkeley/agents-last-exam
+    url: https://api.github.com/repos/rdi-berkeley/agents-last-exam
+  type: WatchEvent
+'10962269086':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-06-25T06:49:20Z'
+  id: '10962269086'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 1247382022
+    name: youngfish42/PaperVault
+    url: https://api.github.com/repos/youngfish42/PaperVault
+  type: WatchEvent
