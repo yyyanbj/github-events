@@ -1,0 +1,22 @@
+'15692977628':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-24T07:58:39Z'
+  id: '15692977628'
+  payload:
+    before: dae845d5138a3eb26568b95115302155369a6920
+    head: 4c08d5108d6054b2efe37bc5a12d86c0219f28eb
+    push_id: 37987297993
+    ref: refs/heads/main
+    repository_id: 1289476221
+  public: false
+  repo:
+    id: 1289476221
+    name: yyyanbj/CV---Yannan-LI
+    url: https://api.github.com/repos/yyyanbj/CV---Yannan-LI
+  type: PushEvent
