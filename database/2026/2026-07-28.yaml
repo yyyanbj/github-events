@@ -1,0 +1,22 @@
+'15958620901':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-27T18:38:24Z'
+  id: '15958620901'
+  payload:
+    before: f33c23a156a6c9ddc5f5e28d4f8e861b459f46b0
+    head: 8e68b70fb90f2c2036aeca7af510e8b61a8c7461
+    push_id: 38259631629
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
