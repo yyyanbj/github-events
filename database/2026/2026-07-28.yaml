@@ -20,3 +20,1279 @@
     name: yyyanbj/VOP-AAAI27-LaTeX
     url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
   type: PushEvent
+'15982315450':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T02:51:56Z'
+  id: '15982315450'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0251
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0251
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'15982318318':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T02:51:59Z'
+  id: '15982318318'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0251
+    pusher_type: user
+    ref: overleaf-2026-07-28-0251
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'15984735235':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T03:38:32Z'
+  id: '15984735235'
+  payload:
+    before: 8e68b70fb90f2c2036aeca7af510e8b61a8c7461
+    head: dc45dbb11b4736a67c9384c00d344451bb91f188
+    push_id: 38285969003
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15984757417':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T03:38:55Z'
+  id: '15984757417'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0338
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0338
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'15984761701':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T03:38:59Z'
+  id: '15984761701'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0338
+    pusher_type: user
+    ref: overleaf-2026-07-28-0338
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'15985951540':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T03:57:03Z'
+  id: '15985951540'
+  payload:
+    before: dc45dbb11b4736a67c9384c00d344451bb91f188
+    head: 4466ad0851c165d14cb8815fbd88c51db9f9d887
+    push_id: 38287286489
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15986681565':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:08:20Z'
+  id: '15986681565'
+  payload:
+    before: 4466ad0851c165d14cb8815fbd88c51db9f9d887
+    head: a09e57a96372d95dde622187f828f27cf8b8b12b
+    push_id: 38288122113
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15987227258':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:17:19Z'
+  id: '15987227258'
+  payload:
+    before: a09e57a96372d95dde622187f828f27cf8b8b12b
+    head: 39e34c2e0f282446c7b6812cac08d35cf80530af
+    push_id: 38288746398
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15987289423':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:18:21Z'
+  id: '15987289423'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0418
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0418
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'15987295866':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:18:28Z'
+  id: '15987295866'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0418
+    pusher_type: user
+    ref: overleaf-2026-07-28-0418
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'15987872988':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:28:37Z'
+  id: '15987872988'
+  payload:
+    before: 39e34c2e0f282446c7b6812cac08d35cf80530af
+    head: 7850a5a18fcee85fe4e127974bdcbc4475b741f5
+    push_id: 38289487711
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15988402670':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:38:20Z'
+  id: '15988402670'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0438
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0438
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'15988404067':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:38:22Z'
+  id: '15988404067'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0438
+    pusher_type: user
+    ref: overleaf-2026-07-28-0438
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'15988723993':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:43:46Z'
+  id: '15988723993'
+  payload:
+    before: 7850a5a18fcee85fe4e127974bdcbc4475b741f5
+    head: da353d1bf54a946993108216a5c74e9dbf65978a
+    push_id: 38290464961
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15988786937':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:44:47Z'
+  id: '15988786937'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0444
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0444
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'15988789635':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:44:50Z'
+  id: '15988789635'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0444
+    pusher_type: user
+    ref: overleaf-2026-07-28-0444
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'15989417498':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T04:55:08Z'
+  id: '15989417498'
+  payload:
+    before: da353d1bf54a946993108216a5c74e9dbf65978a
+    head: b8ddff710a70c20a23dac6b7b21f4ad9db334709
+    push_id: 38291252066
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15989839380':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T05:01:55Z'
+  id: '15989839380'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0501
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0501
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'15989845245':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T05:02:00Z'
+  id: '15989845245'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0501
+    pusher_type: user
+    ref: overleaf-2026-07-28-0501
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'15991421447':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T05:27:39Z'
+  id: '15991421447'
+  payload:
+    before: b8ddff710a70c20a23dac6b7b21f4ad9db334709
+    head: 7ed9270910ccd55e43cb847557729cb2dd31af41
+    push_id: 38293499447
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15992568246':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T05:45:26Z'
+  id: '15992568246'
+  payload:
+    before: 7ed9270910ccd55e43cb847557729cb2dd31af41
+    head: 53de00c741976ddee18a9d9f3ebaa3c519dc8534
+    push_id: 38294771433
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15993961178':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T06:06:05Z'
+  id: '15993961178'
+  payload:
+    before: 53de00c741976ddee18a9d9f3ebaa3c519dc8534
+    head: ce7bb46ff6ebecb430a555796dded0a97b0f3bef
+    push_id: 38296310669
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15994829203':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T06:18:25Z'
+  id: '15994829203'
+  payload:
+    before: ce7bb46ff6ebecb430a555796dded0a97b0f3bef
+    head: 8b3ab9eb5280dacdb3c26d91121e4a87a5f878b6
+    push_id: 38297266781
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15995274297':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T06:24:50Z'
+  id: '15995274297'
+  payload:
+    before: 8b3ab9eb5280dacdb3c26d91121e4a87a5f878b6
+    head: eab10d2f0d78b0355e58399dc49fdab85fb023b2
+    push_id: 38297755963
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15998385538':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T07:05:25Z'
+  id: '15998385538'
+  payload:
+    before: eab10d2f0d78b0355e58399dc49fdab85fb023b2
+    head: 8f942a23ba713c3cd41f82871df4b6292f754d9b
+    push_id: 38301133771
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'15998769747':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T07:10:06Z'
+  id: '15998769747'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0709
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0709
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'15998775366':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T07:10:11Z'
+  id: '15998775366'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0709
+    pusher_type: user
+    ref: overleaf-2026-07-28-0709
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'15999850686':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T07:23:50Z'
+  id: '15999850686'
+  payload:
+    before: 8f942a23ba713c3cd41f82871df4b6292f754d9b
+    head: 4aa25e48945fccb453612b52b5bdf4398939d862
+    push_id: 38302712763
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16002132046':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T07:53:25Z'
+  id: '16002132046'
+  payload:
+    before: 4aa25e48945fccb453612b52b5bdf4398939d862
+    head: 64c41bdb6155905915bb0524024114616ace45a9
+    push_id: 38305163712
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16002662661':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:00:18Z'
+  id: '16002662661'
+  payload:
+    before: 64c41bdb6155905915bb0524024114616ace45a9
+    head: 8726aee4cd8fdace415acb9786a50ac424765743
+    push_id: 38305727658
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16003448635':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:10:14Z'
+  id: '16003448635'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0810
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0810
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'16003451545':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:10:16Z'
+  id: '16003451545'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0810
+    pusher_type: user
+    ref: overleaf-2026-07-28-0810
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'16004093656':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:18:40Z'
+  id: '16004093656'
+  payload:
+    before: 8726aee4cd8fdace415acb9786a50ac424765743
+    head: 0c646e36751bb2869b4d8dc064b0ed26bccfc326
+    push_id: 38307239555
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16005546314':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:37:53Z'
+  id: '16005546314'
+  payload:
+    before: 0c646e36751bb2869b4d8dc064b0ed26bccfc326
+    head: 8145e9e77c5fb5790ab64a09f7f8e15a12293772
+    push_id: 38308760202
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16005638258':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:39:05Z'
+  id: '16005638258'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-0838
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-0838
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'16005642336':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:39:08Z'
+  id: '16005642336'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-0838
+    pusher_type: user
+    ref: overleaf-2026-07-28-0838
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'16006830277':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T08:54:00Z'
+  id: '16006830277'
+  payload:
+    before: 8145e9e77c5fb5790ab64a09f7f8e15a12293772
+    head: 7e7bcb9d278025718c99fb7c84cf13d3844d5ff4
+    push_id: 38310099942
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16010705329':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T09:41:42Z'
+  id: '16010705329'
+  payload:
+    before: 7e7bcb9d278025718c99fb7c84cf13d3844d5ff4
+    head: 053499b74a6895b7104d38b487069d885ac7a6bd
+    push_id: 38314122949
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16019816175':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T11:44:13Z'
+  id: '16019816175'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-1144
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-1144
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'16019820719':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T11:44:16Z'
+  id: '16019820719'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-1144
+    pusher_type: user
+    ref: overleaf-2026-07-28-1144
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'16021082435':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T11:59:07Z'
+  id: '16021082435'
+  payload:
+    before: 053499b74a6895b7104d38b487069d885ac7a6bd
+    head: bee70decaafe9476c9144ff5dac36551110e8117
+    push_id: 38324764377
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16022256873':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:12:07Z'
+  id: '16022256873'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-1211
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-1211
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'16022294553':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:12:08Z'
+  id: '16022294553'
+  payload:
+    before: bee70decaafe9476c9144ff5dac36551110e8117
+    head: 9beb6a53c639dfcfe5dead1a0e323ff6b757e4b0
+    push_id: 38325981279
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16022298889':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:12:11Z'
+  id: '16022298889'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-1211
+    pusher_type: user
+    ref: overleaf-2026-07-28-1211
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'16023963620':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:31:07Z'
+  id: '16023963620'
+  payload:
+    before: 9beb6a53c639dfcfe5dead1a0e323ff6b757e4b0
+    head: f6b6f9a3f3caa88e09ee62e87d250123052779e9
+    push_id: 38327749798
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16024481308':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:36:53Z'
+  id: '16024481308'
+  payload:
+    before: f6b6f9a3f3caa88e09ee62e87d250123052779e9
+    head: 4c88b4a519e66d76585fc9aacb8ccd49b370cc14
+    push_id: 38328285094
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16024693183':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:39:16Z'
+  id: '16024693183'
+  payload:
+    before: 4c88b4a519e66d76585fc9aacb8ccd49b370cc14
+    head: 27cf63be93a02291a7e412dab3944aaf45503fb3
+    push_id: 38328503630
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16024826231':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:39:14Z'
+  id: '16024826231'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-1239
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-1239
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'16024832503':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:39:18Z'
+  id: '16024832503'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-1239
+    pusher_type: user
+    ref: overleaf-2026-07-28-1239
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'16025022574':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:42:59Z'
+  id: '16025022574'
+  payload:
+    before: 27cf63be93a02291a7e412dab3944aaf45503fb3
+    head: 6f53c77e5dfa9f5dd06566bee91b770e12b155fd
+    push_id: 38328842368
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16025583405':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:49:22Z'
+  id: '16025583405'
+  payload:
+    before: 6f53c77e5dfa9f5dd06566bee91b770e12b155fd
+    head: d7c74db39f27076b07940e709b8564e967e64d92
+    push_id: 38329422756
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16025794160':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:51:46Z'
+  id: '16025794160'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-1251
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-1251
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
+'16025797071':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:51:48Z'
+  id: '16025797071'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-1251
+    pusher_type: user
+    ref: overleaf-2026-07-28-1251
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'16026265507':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:57:07Z'
+  id: '16026265507'
+  payload:
+    before: 4635753a2b01b2ff51dd3e8ed0cb7dcbe88fd314
+    head: 422254049385c33e10ec09d2d47456143dba76c9
+    push_id: 38330125614
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16026312725':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T12:55:40Z'
+  id: '16026312725'
+  payload:
+    before: d7c74db39f27076b07940e709b8564e967e64d92
+    head: 4635753a2b01b2ff51dd3e8ed0cb7dcbe88fd314
+    push_id: 38329994549
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16026728579':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T13:02:13Z'
+  id: '16026728579'
+  payload:
+    before: 422254049385c33e10ec09d2d47456143dba76c9
+    head: c07eb51762f7bc6576eba4cb9860c2afa4ea43a9
+    push_id: 38330603831
+    ref: refs/heads/main
+    repository_id: 1308442656
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: PushEvent
+'16026855498':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T13:03:38Z'
+  id: '16026855498'
+  payload:
+    full_ref: refs/heads/overleaf-2026-07-28-1303
+    pusher_type: user
+    ref: overleaf-2026-07-28-1303
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: DeleteEvent
+'16026877389':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-07-28T13:03:35Z'
+  id: '16026877389'
+  payload:
+    description: null
+    full_ref: refs/heads/overleaf-2026-07-28-1303
+    master_branch: main
+    pusher_type: user
+    ref: overleaf-2026-07-28-1303
+    ref_type: branch
+  public: false
+  repo:
+    id: 1308442656
+    name: yyyanbj/VOP-AAAI27-LaTeX
+    url: https://api.github.com/repos/yyyanbj/VOP-AAAI27-LaTeX
+  type: CreateEvent
