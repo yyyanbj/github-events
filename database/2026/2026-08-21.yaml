@@ -1,0 +1,22 @@
+'18314104518':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-20T17:35:14Z'
+  id: '18314104518'
+  payload:
+    before: 349bf7a3a4025f94d9c423a0cb69674485f32e44
+    head: 5ce8e3a9a99c5035fe48dc68e1113d35d9bf9b8e
+    push_id: 40636206699
+    ref: refs/heads/main
+    repository_id: 1340373704
+  public: true
+  repo:
+    id: 1340373704
+    name: yannan1122/yannan1122.github.io
+    url: https://api.github.com/repos/yannan1122/yannan1122.github.io
+  type: PushEvent
