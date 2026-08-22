@@ -399,3 +399,139 @@
     name: yyyanbj/MedAgentLeak_arXiv
     url: https://api.github.com/repos/yyyanbj/MedAgentLeak_arXiv
   type: PushEvent
+'18452569760':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-22T00:09:02Z'
+  id: '18452569760'
+  payload:
+    description: 'Medicine for AI Builder: A Field Guide to Clinical Medicine for
+      Building Medical AI and Agents. Clinical knowledge for people building AI.'
+    full_ref: refs/heads/main
+    master_branch: main
+    pusher_type: user
+    ref: main
+    ref_type: branch
+  public: false
+  repo:
+    id: 1342299634
+    name: yyyanbj/medicine-for-ai
+    url: https://api.github.com/repos/yyyanbj/medicine-for-ai
+  type: CreateEvent
+'18453092024':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-22T00:20:44Z'
+  id: '18453092024'
+  payload:
+    before: f48f8278371f8e619e4b8aba67446b24b74ac8b4
+    head: baa335a52a27a9f39de6a6555945852687417f42
+    push_id: 40783708487
+    ref: refs/heads/main
+    repository_id: 1342299634
+  public: false
+  repo:
+    id: 1342299634
+    name: yyyanbj/medicine-for-ai
+    url: https://api.github.com/repos/yyyanbj/medicine-for-ai
+  type: PushEvent
+'18455360795':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-21T22:27:35Z'
+  id: '18455360795'
+  payload:
+    before: 5731eb0af9526b600b0da402b03501c821a2cbd1
+    head: 03d755901f207a1a23ded8a714f12cca3e70656b
+    push_id: 40777310337
+    ref: refs/heads/main
+    repository_id: 1340373704
+  public: true
+  repo:
+    id: 1340373704
+    name: yannan1122/yannan1122.github.io
+    url: https://api.github.com/repos/yannan1122/yannan1122.github.io
+  type: PushEvent
+'18455941301':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-22T01:08:01Z'
+  id: '18455941301'
+  payload:
+    before: 7f24c0c4180e5fa11c72aa8d936d2807326e83b1
+    head: 23928295c2dfe58a171f6e186b2734b55532813b
+    push_id: 40786226804
+    ref: refs/heads/main
+    repository_id: 1342299634
+  public: false
+  repo:
+    id: 1342299634
+    name: yyyanbj/medicine-for-ai
+    url: https://api.github.com/repos/yyyanbj/medicine-for-ai
+  type: PushEvent
+'18456847276':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-22T01:05:44Z'
+  id: '18456847276'
+  payload:
+    before: baa335a52a27a9f39de6a6555945852687417f42
+    head: 7f24c0c4180e5fa11c72aa8d936d2807326e83b1
+    push_id: 40786104731
+    ref: refs/heads/main
+    repository_id: 1342299634
+  public: false
+  repo:
+    id: 1342299634
+    name: yyyanbj/medicine-for-ai
+    url: https://api.github.com/repos/yyyanbj/medicine-for-ai
+  type: PushEvent
+'18459755474':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-22T00:09:02Z'
+  id: '18459755474'
+  payload:
+    description: 'Medicine for AI Builder: A Field Guide to Clinical Medicine for
+      Building Medical AI and Agents. Clinical knowledge for people building AI.'
+    full_ref: refs/heads/main
+    master_branch: main
+    pusher_type: user
+    ref: main
+    ref_type: branch
+  public: false
+  repo:
+    id: 1342299634
+    name: yyyanbj/medicine-for-ai
+    url: https://api.github.com/repos/yyyanbj/medicine-for-ai
+  type: CreateEvent
