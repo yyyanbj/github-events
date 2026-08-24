@@ -1,0 +1,67 @@
+'18676950614':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-24T05:24:13Z'
+  id: '18676950614'
+  payload:
+    description: null
+    full_ref: refs/heads/main
+    master_branch: main
+    pusher_type: user
+    ref: main
+    ref_type: branch
+  public: false
+  repo:
+    id: 1344571523
+    name: yyyanbj/cfdc
+    url: https://api.github.com/repos/yyyanbj/cfdc
+  type: CreateEvent
+'18688005132':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-24T07:42:58Z'
+  id: '18688005132'
+  payload:
+    before: a6cbb355859f11dd0097b366c751bded487a35a9
+    head: dc4694f1437a917b3b81c87c77a5e6c618f2b9ca
+    push_id: 41014386704
+    ref: refs/heads/gh-pages
+    repository_id: 1342299634
+  public: false
+  repo:
+    id: 1342299634
+    name: yyyanbj/medicine-for-ai
+    url: https://api.github.com/repos/yyyanbj/medicine-for-ai
+  type: PushEvent
+'18689946906':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-08-24T07:57:42Z'
+  id: '18689946906'
+  payload:
+    before: 23928295c2dfe58a171f6e186b2734b55532813b
+    head: 80fc78cbf5db27b392a035ff14fb6b08d242f9ac
+    push_id: 41015802649
+    ref: refs/heads/main
+    repository_id: 1342299634
+  public: false
+  repo:
+    id: 1342299634
+    name: yyyanbj/medicine-for-ai
+    url: https://api.github.com/repos/yyyanbj/medicine-for-ai
+  type: PushEvent
