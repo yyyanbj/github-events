@@ -42,3 +42,25 @@
     name: yyyanbj/MedAgentLeak_arXiv
     url: https://api.github.com/repos/yyyanbj/MedAgentLeak_arXiv
   type: DeleteEvent
+'20475979842':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-09-07T08:41:59Z'
+  id: '20475979842'
+  payload:
+    before: eb4d1ef28c6d9a769b8c7ae8deb2d38d47139511
+    head: b62f374bda193c4d921fd75ee73bd11f43d3d6e0
+    push_id: 42801105945
+    ref: refs/heads/main
+    repository_id: 1342047156
+  public: false
+  repo:
+    id: 1342047156
+    name: yyyanbj/MedAgentLeak_arXiv
+    url: https://api.github.com/repos/yyyanbj/MedAgentLeak_arXiv
+  type: PushEvent
