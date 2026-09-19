@@ -57,7 +57,7 @@
       issues_url: https://api.github.com/repos/yyyanbj/codex-auth/issues{/number}
       keys_url: https://api.github.com/repos/yyyanbj/codex-auth/keys{/key_id}
       labels_url: https://api.github.com/repos/yyyanbj/codex-auth/labels{/name}
-      language: null
+      language: Shell
       languages_url: https://api.github.com/repos/yyyanbj/codex-auth/languages
       license:
         key: mit
@@ -96,9 +96,9 @@
       private: false
       pull_request_creation_policy: all
       pulls_url: https://api.github.com/repos/yyyanbj/codex-auth/pulls{/number}
-      pushed_at: '2026-09-18T17:14:22Z'
+      pushed_at: '2026-09-19T09:01:25Z'
       releases_url: https://api.github.com/repos/yyyanbj/codex-auth/releases{/id}
-      size: 31
+      size: 33
       ssh_url: git@github.com:yyyanbj/codex-auth.git
       stargazers_count: 0
       stargazers_url: https://api.github.com/repos/yyyanbj/codex-auth/stargazers
@@ -110,7 +110,7 @@
       teams_url: https://api.github.com/repos/yyyanbj/codex-auth/teams
       topics: []
       trees_url: https://api.github.com/repos/yyyanbj/codex-auth/git/trees{/sha}
-      updated_at: '2026-09-18T17:13:15Z'
+      updated_at: '2026-09-19T09:01:29Z'
       url: https://api.github.com/repos/yyyanbj/codex-auth
       visibility: public
       watchers: 0
@@ -122,3 +122,62 @@
     name: urays/codex-auth
     url: https://api.github.com/repos/urays/codex-auth
   type: ForkEvent
+'15339501003':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-09-19T09:03:49Z'
+  id: '15339501003'
+  payload:
+    action: opened
+    number: 1
+    pull_request:
+      base:
+        ref: main
+        repo:
+          id: 1350432831
+          name: codex-auth
+          url: https://api.github.com/repos/urays/codex-auth
+        sha: c6b8450ae2238574cd9d6fa2beff54a3baa81091
+      head:
+        ref: main
+        repo:
+          id: 1376189872
+          name: codex-auth
+          url: https://api.github.com/repos/yyyanbj/codex-auth
+        sha: a68fe965d2543dc88c5e4955e6618a7ea34f6479
+      id: 4576718911
+      number: 1
+      url: https://api.github.com/repos/urays/codex-auth/pulls/1
+  public: true
+  repo:
+    id: 1350432831
+    name: urays/codex-auth
+    url: https://api.github.com/repos/urays/codex-auth
+  type: PullRequestEvent
+'21571392255':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-09-19T08:58:49Z'
+  id: '21571392255'
+  payload:
+    before: c6b8450ae2238574cd9d6fa2beff54a3baa81091
+    head: a5d472740c20ff035b69f71464b95f04aa7cfe55
+    push_id: 44003774859
+    ref: refs/heads/main
+    repository_id: 1376189872
+  public: true
+  repo:
+    id: 1376189872
+    name: yyyanbj/codex-auth
+    url: https://api.github.com/repos/yyyanbj/codex-auth
+  type: PushEvent
