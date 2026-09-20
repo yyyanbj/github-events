@@ -181,3 +181,48 @@
     name: yyyanbj/codex-auth
     url: https://api.github.com/repos/yyyanbj/codex-auth
   type: PushEvent
+'21594398782':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-09-18T17:14:22Z'
+  id: '21594398782'
+  payload:
+    description: "Lightweight & full\u2011featured Bash for Codex multi\u2011accounts."
+    full_ref: refs/heads/codex/proxy-env-fallback
+    master_branch: main
+    pusher_type: user
+    ref: codex/proxy-env-fallback
+    ref_type: branch
+  public: true
+  repo:
+    id: 1376189872
+    name: yyyanbj/codex-auth
+    url: https://api.github.com/repos/yyyanbj/codex-auth
+  type: CreateEvent
+'21605328043':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-09-19T09:01:26Z'
+  id: '21605328043'
+  payload:
+    before: a5d472740c20ff035b69f71464b95f04aa7cfe55
+    head: a68fe965d2543dc88c5e4955e6618a7ea34f6479
+    push_id: 44003895485
+    ref: refs/heads/main
+    repository_id: 1376189872
+  public: true
+  repo:
+    id: 1376189872
+    name: yyyanbj/codex-auth
+    url: https://api.github.com/repos/yyyanbj/codex-auth
+  type: PushEvent
