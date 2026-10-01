@@ -96,9 +96,9 @@
       private: false
       pull_request_creation_policy: all
       pulls_url: https://api.github.com/repos/yyyanbj/codex-auth/pulls{/number}
-      pushed_at: '2026-09-19T09:01:25Z'
+      pushed_at: '2026-10-01T16:15:56Z'
       releases_url: https://api.github.com/repos/yyyanbj/codex-auth/releases{/id}
-      size: 33
+      size: 79
       ssh_url: git@github.com:yyyanbj/codex-auth.git
       stargazers_count: 0
       stargazers_url: https://api.github.com/repos/yyyanbj/codex-auth/stargazers
@@ -110,7 +110,7 @@
       teams_url: https://api.github.com/repos/yyyanbj/codex-auth/teams
       topics: []
       trees_url: https://api.github.com/repos/yyyanbj/codex-auth/git/trees{/sha}
-      updated_at: '2026-09-19T09:01:29Z'
+      updated_at: '2026-10-01T16:16:01Z'
       url: https://api.github.com/repos/yyyanbj/codex-auth
       visibility: public
       watchers: 0
