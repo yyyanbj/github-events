@@ -1,0 +1,22 @@
+'22750305132':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-10-01T16:15:57Z'
+  id: '22750305132'
+  payload:
+    before: a68fe965d2543dc88c5e4955e6618a7ea34f6479
+    head: 629f71dc2577fc3a7766e45bd7e13d734b45cb8a
+    push_id: 45165013597
+    ref: refs/heads/main
+    repository_id: 1376189872
+  public: true
+  repo:
+    id: 1376189872
+    name: yyyanbj/codex-auth
+    url: https://api.github.com/repos/yyyanbj/codex-auth
+  type: PushEvent
