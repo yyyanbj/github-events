@@ -1,0 +1,22 @@
+'23617239991':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-10-10T05:52:00Z'
+  id: '23617239991'
+  payload:
+    before: f6dc30208d2c3208f26c349816cb246a46ef5101
+    head: 4fefe2246bba7213ec6b49f63200bea563691db4
+    push_id: 46033733158
+    ref: refs/heads/main
+    repository_id: 417769439
+  public: false
+  repo:
+    id: 417769439
+    name: yyyanbj/blog-source
+    url: https://api.github.com/repos/yyyanbj/blog-source
+  type: PushEvent
