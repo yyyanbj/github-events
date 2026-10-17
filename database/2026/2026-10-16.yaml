@@ -64,3 +64,47 @@
     name: yyyanbj/blog-source
     url: https://api.github.com/repos/yyyanbj/blog-source
   type: PushEvent
+'24288723659':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-10-16T08:03:22Z'
+  id: '24288723659'
+  payload:
+    before: 9ae66d602a7c09afa2fc3e3c758a93a691d53b2e
+    head: 8fb31e8eecaec5e616635ba6185c82d23d059540
+    push_id: 46691619003
+    ref: refs/heads/master
+    repository_id: 157235611
+  public: true
+  repo:
+    id: 157235611
+    name: yyyanbj/yyyanbj.github.io
+    url: https://api.github.com/repos/yyyanbj/yyyanbj.github.io
+  type: PushEvent
+'24315072686':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-10-16T08:11:58Z'
+  id: '24315072686'
+  payload:
+    before: 1c7a62d90e8c58ce93b0c634d7abcb4e3735c7be
+    head: 08740bc095cf61aea50a3502eeac201cb613d3b5
+    push_id: 46692356554
+    ref: refs/heads/main
+    repository_id: 417769439
+  public: false
+  repo:
+    id: 417769439
+    name: yyyanbj/blog-source
+    url: https://api.github.com/repos/yyyanbj/blog-source
+  type: PushEvent
