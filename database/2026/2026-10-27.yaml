@@ -253,3 +253,25 @@
     name: OpenMedAILab/LightRAG_OphthaKG
     url: https://api.github.com/repos/OpenMedAILab/LightRAG_OphthaKG
   type: ForkEvent
+'25355953891':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-10-27T11:01:40Z'
+  id: '25355953891'
+  payload:
+    before: bca207920c7d6dabe219d53e0bf760f8e5deb433
+    head: 270e4722049dda40f776931f123a02216a8b3546
+    push_id: 47948081399
+    ref: refs/heads/main
+    repository_id: 1435417672
+  public: true
+  repo:
+    id: 1435417672
+    name: yyyanbj/emr-extractor
+    url: https://api.github.com/repos/yyyanbj/emr-extractor
+  type: PushEvent
