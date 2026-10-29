@@ -275,3 +275,27 @@
     name: yyyanbj/emr-extractor
     url: https://api.github.com/repos/yyyanbj/emr-extractor
   type: PushEvent
+'25457533122':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: yyyanbj
+    gravatar_id: ''
+    id: 44976445
+    login: yyyanbj
+    url: https://api.github.com/users/yyyanbj
+  created_at: '2026-10-27T10:56:06Z'
+  id: '25457533122'
+  payload:
+    description: Extract, structure, and redact scanned medical records with PaddleOCR-VL
+      or MinerU.
+    full_ref: refs/heads/main
+    master_branch: main
+    pusher_type: user
+    ref: main
+    ref_type: branch
+  public: true
+  repo:
+    id: 1435417672
+    name: yyyanbj/emr-extractor
+    url: https://api.github.com/repos/yyyanbj/emr-extractor
+  type: CreateEvent
